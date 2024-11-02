@@ -28,13 +28,13 @@
 **👇𝙵𝙾𝚁𝙺 𝚃𝙷𝙴 𝚁𝙴𝙿𝙾**
 
 
-href="https://github.com/romeobwiii/QUEEN-ANGEL-MD/fork"><img src="https://img.shields.io/badge/CLICK%20HERE-purple" alt="FORK QUEEN-ANGEL-MD" width="150"></a>
+<a>href="https://github.com/romeobwiii/QUEEN-ANGEL-MD/fork"><img src="https://img.shields.io/badge/CLICK%20HERE-purple" alt="FORK QUEEN-ANGEL-MD" width="150"></a>
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
  <h1 align="center">  𝐆𝐄𝐓 𝐘𝐎𝐔𝐑 𝐒𝐄𝐒𝐒𝐈𝐎𝐍 </h1>
-  <a href="https://romeo-sessions-pi5z.onrender.com"><img src="https://img.shields.io/badge/Pair%20session%20code-white" alt="𝐏𝐚𝐢𝐫 𝐬𝐞𝐬𝐬𝐢𝐨𝐧 𝐜𝐨𝐝𝐞" width="300"></a>
+  <a href="https://romeo𝚋𝚠𝚒𝚒𝚒-sessions-pi5z.onrender.com"><img src="https://img.shields.io/badge/Pair%20session%20code-white" alt="𝐏𝐚𝐢𝐫 𝐬𝐞𝐬𝐬𝐢𝐨𝐧 𝐜𝐨𝐝𝐞" width="300"></a>
 
 
 
@@ -52,9 +52,9 @@ href="https://github.com/romeobwiii/QUEEN-ANGEL-MD/fork"><img src="https://img.s
 **𝗛𝗢𝗦𝗧 𝗢𝗡 𝗗𝗜𝗦𝗖𝗢𝗥𝗗**
 <details>
 <summary>CLICK FOR MORE</summary>
-<a href="https://github.com/romeobwiii Queen-Angel-MD/archive/refs/heads/main.zip"><img src="https://img.shields.io/badge/DOWNLOAD%20FILES-yellow" alt="Rainhost Files" width="150"></a>
+<a>href="https://github.com/romeobwiii Queen-Angel-MD/archive/refs/heads/main.zip"><img src="https://img.shields.io/badge/DOWNLOAD%20FILES-yellow" alt="Rainhost Files" width="150"></a>
   
-<a href="https://bot-hosting.net/?aff=1259151615210819614"><img src="https://img.shields.io/badge/SIGNUP%20&%20DEPLOY-gold" alt="Scalingo Deploy" width="150"></a>
+<a>href="https://bot-hosting.net/?aff=1259151615210819614"><img src="https://img.shields.io/badge/SIGNUP%20&%20DEPLOY-gold" alt="Scalingo Deploy" width="150"></a>
 </details
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
