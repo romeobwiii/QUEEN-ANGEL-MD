@@ -28,20 +28,20 @@
 **👇𝙵𝙾𝚁𝙺 𝚃𝙷𝙴 𝚁𝙴𝙿𝙾**
 
 
-<a>href="https://github.com/romeobwiii/QUEEN-ANGEL-MD.git"><img src="https://img.shields.io/badge/CLICK%20HERE-purple" alt="FORK QUEEN-ANGEL-MD" width="150"></a>
+<a>href="git@github.com:romeobwiii/QUEEN-ANGEL-MD.git"><img src="https://img.shields.io/badge/CLICK%20HERE-purple" alt="FORK QUEEN-ANGEL-MD" width="150"></a>
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
  <h1 align="center">  𝐆𝐄𝐓 𝐘𝐎𝐔𝐑 𝐒𝐄𝐒𝐒𝐈𝐎𝐍 </h1>
-  <a href="https://romeo𝚋𝚠𝚒𝚒𝚒-sessions-pi5z.onrender.com"><img src="https://img.shields.io/badge/Pair%20session%20code-white" alt="𝐏𝐚𝐢𝐫 𝐬𝐞𝐬𝐬𝐢𝐨𝐧 𝐜𝐨𝐝𝐞" width="300"></a>
+  <a href="https://git@github.com:romeobwiii/QUEEN-ANGEL-MD.git"><img src="https://img.shields.io/badge/Pair%20session%20code-white" alt="𝐏𝐚𝐢𝐫 𝐬𝐞𝐬𝐬𝐢𝐨𝐧 𝐜𝐨𝐝𝐞" width="300"></a>
 
 
 
 ###  𝐃𝐄𝐏𝐋𝐎𝐘 𝐎𝐍 𝐇𝐄𝐑𝐎𝐊𝐔:
 
 
- ***[![Tap to deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button=https://github.com/romeobwiii/QUEEN-ANGEL-MD.git***
+ ***[![Tap to deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button=https://git@github.com:romeobwiii/QUEEN-ANGEL-MD.git***
 <br>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -83,6 +83,6 @@
    <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ### 𝗧𝗛𝗔𝗡𝗞𝗦 𝗧𝗢 𝗠𝗬 𝗟𝗢𝗩𝗘𝗟𝗬 𝗙𝗔𝗡𝗦
-[![Stargazers repo roster for @Romeobwii/Queen-Angel-MD](http://reporoster.com/stars/dark https://github.com/romeobwiii/QUEEN-ANGEL-MD.git)](https://github.com/
+[![Stargazers repo roster for @Romeobwii/Queen-Angel-MD] https://github.com/romeobwiii/QUEEN-ANGEL-MD.git)](https://github.com/
 
 Enjoy the diverse features of 𝚀𝚄𝙴𝙴𝙽-𝙰𝙽𝙶𝙴𝙻-𝙼𝙳 to enhance your Whatsapp more enjoyable
