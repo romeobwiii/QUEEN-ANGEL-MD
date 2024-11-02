@@ -3,6 +3,15 @@
 <h1 align="center"> 𝙷𝙴𝙻𝙻𝙾 𝙶𝚄𝚈𝚂 𝚃𝙷𝙸𝚂 𝙱𝙾𝚃 𝙸𝚂 𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 𝚁𝙾𝙼𝙴𝙾
 </h1>
 
+*𝗛𝗢𝗦𝗧 𝗢𝗡 𝗗𝗜𝗦𝗖𝗢𝗥𝗗**
+<details>
+<summary>CLICK FOR MORE</summary>
+<a href=/archive/refs/heads/main.zip"><img src="https://img.shields.io/badge/DOWNLOAD%20FILES-yellow" alt="Rainhost Files" width="150"></a>
+  
+<a href="https://bot-hosting.net/?aff=1259151615210819614"><img src="https://img.shields.io/badge/SIGNUP%20&%20DEPLOY-gold" alt="Scalingo Deploy" width="150"></a>
+</details
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
 <details>
